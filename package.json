@@ -1,5 +1,5 @@
 {
-  "name": "react-native-boring-avatars",
+  "name": "react-native-boring-avatars-pyt",
   "version": "1.0.1",
   "description": "React Native implementation of boring avatars",
   "main": "lib/module/index.js",
@@ -144,6 +144,6 @@
     ]
   },
   "dependencies": {
-    "react-native-svg": "^12.1.1"
+    "react-native-svg": "^13.9.0"
   }
 }
